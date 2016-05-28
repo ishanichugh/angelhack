@@ -15,7 +15,8 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-
+from selector.views import startpage
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^$',startpage)
 ]

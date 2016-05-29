@@ -1,0 +1,71 @@
+ <html>
+<head>
+<style>
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h5 {
+    text-align: center;
+}
+</style>
+<h1><u>what's the occation?</u></h1>
+<h3>come and become the star of the day<h3>
+</head>
+<body  background="https://researchweb.iiit.ac.in/~chugh.ishani/pic1.jpg">
+
+<h2>kindly fill the below details to get quick and best results:-</h2>
+ <form>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname"><br>
+  email id:<br>
+  <input type="text" name="email id"><br>
+  Age:<br>
+  <input type="text" name="age"><br>
+  height:<br>
+  <input type="text" name="height"><br>
+  </form>
+
+<form action="">
+gender:<br>
+  <input type="radio" name="gender" value="male" onclick="male()"> Male<br>
+  <input type="radio" name="gender" value="female" onclick="female()"> Female<br>
+waist<br>
+ <input type="text" name="yo" id="shrenik1"><br>
+chest<br>
+ <input type="text" name="yo" id="shrenik"><br>
+ hip <br>
+ <input type="text" name="yo" id="shrenik2"><br>
+</form>
+
+<script>
+function male()
+{
+document.getElementById("shrenik").disabled = true;
+document.getElementById("shrenik2").disabled = true;
+}
+function female()
+{
+document.getElementById("shrenik").disabled = false;
+document.getElementById("shrenik2").disabled = false;
+}
+
+</script>
+
+ <form>
+ style:<br>  
+<input type="radio" name="style" value="indian" checked> indian<br>
+  <input type="radio" name="style" value="western"> western<br>
+  <input type="radio" name="style" value="both"> both
+</form> 
+ <form action="url">
+  occassion:<br>
+  <input type="text" name="firstname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>

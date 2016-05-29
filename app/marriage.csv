@@ -1,0 +1,178 @@
+Shirt-Trouser,1,20,1,W,1
+Shirt-Trouser,1,20,2,W,2
+Shirt-Trouser,1,25,1,W,3
+Shirt-Trouser,1,25,2,W,4
+Shirt-Trouser,1,30,1,W,5
+Shirt-Trouser,2,30,2,W,2
+Shirt-Trouser,2,35,1,W,3
+Shirt-Trouser,2,35,2,W,4
+Shirt-Trouser,2,40,1,W,5
+Shirt-Trouser,2,40,2,W,6
+Shirt-Trouser,2,45,1,W,7
+Shirt-Trouser,2,45,2,W,8
+Shirt-Trouser,2,50,1,W,9
+Shirt-Trouser,2,50,2,W,1
+Shirt-Trouser,3,20,1,W,2
+Shirt-Trouser,3,20,2,W,3
+Shirt-Trouser,3,45,1,W,3
+Shirt-Trouser,3,45,2,W,4
+Shirt-Trouser,3,50,1,W,5
+Shirt-Trouser,3,50,2,W,6
+shirt-pant,1,20,1,W,7
+shirt-pant,1,20,2,W,8
+shirt-pant,1,25,1,W,9
+shirt-pant,1,25,2,W,1
+shirt-pant,1,30,1,W,2
+shirt-pant,1,30,2,W,3
+shirt-pant,1,35,1,W,4
+shirt-pant,1,35,2,W,5
+shirt-pant,1,40,1,W,6
+shirt-pant,2,30,2,W,8
+shirt-pant,2,35,1,W,9
+shirt-pant,2,35,2,W,1
+shirt-pant,2,40,1,W,2
+shirt-pant,2,40,2,W,3
+shirt-pant,2,45,1,W,4
+shirt-pant,2,45,2,W,5
+shirt-pant,2,50,1,W,6
+shirt-pant,2,50,2,W,7
+shirt-pant,3,20,1,W,8
+shirt-pant,3,20,2,W,9
+shirt-pant,3,25,1,W,1
+shirt-pant,3,25,2,W,2
+shirt-pant,3,30,1,W,3
+shirt-pant,3,30,2,W,4
+shirt-pant,3,35,1,W,5
+shirt-pant,3,35,2,W,6
+shirt-pant,3,40,1,W,7
+shirt-pant,3,40,2,W,8
+shirt-pant,3,45,1,W,9
+shirt-pant,3,45,2,W,1
+shirt-pant,3,50,1,W,2
+shirt-pant,3,50,2,W,3
+Sherwani,1,20,1,E,4
+Sherwani,1,20,2,E,5
+Sherwani,1,25,1,E,6
+Sherwani,1,25,2,E,7
+Sherwani,1,30,1,E,8
+Sherwani,1,30,2,E,9
+Sherwani,1,35,1,E,1
+Sherwani,1,35,2,E,2
+Sherwani,1,40,1,E,3
+Sherwani,1,40,2,E,4
+Sherwani,1,45,1,E,5
+Sherwani,1,45,2,E,6
+Sherwani,1,50,1,E,7
+Sherwani,1,50,2,E,8
+Sherwani,2,20,1,E,9
+Sherwani,2,20,2,E,1
+Sherwani,2,25,1,E,2
+Sherwani,2,25,2,E,3
+Sherwani,2,30,1,E,4
+Sherwani,2,30,2,E,5
+Sherwani,2,35,1,E,6
+Sherwani,2,35,2,E,7
+Sherwani,2,40,1,E,8
+Sherwani,2,40,2,E,9
+Sherwani,2,45,1,E,1
+Sherwani,2,45,2,E,2
+Sherwani,2,50,1,E,3
+Sherwani,2,50,2,E,4
+Sherwani,3,20,1,E,5
+Sherwani,3,20,2,E,6
+Sherwani,3,25,1,E,7
+Sherwani,3,25,2,E,8
+Sherwani,3,30,1,E,9
+Sherwani,3,30,2,E,1
+Sherwani,3,35,1,E,2
+Sherwani,3,35,2,E,3
+Sherwani,3,40,1,E,4
+Sherwani,3,40,2,E,5
+Sherwani,3,45,1,E,6
+Sherwani,3,45,2,E,7
+Sherwani,3,50,1,E,8
+Sherwani,3,50,2,E,9
+formal suit,1,20,1,W,1
+formal suit,1,20,2,W,2
+formal suit,1,25,1,W,3
+formal suit,1,25,2,W,4
+formal suit,1,30,1,W,5
+formal suit,1,30,2,W,6
+formal suit,1,35,1,W,7
+formal suit,1,35,2,W,8
+formal suit,1,40,1,W,9
+formal suit,1,40,2,W,1
+formal suit,1,45,1,W,2
+formal suit,1,45,2,W,3
+formal suit,1,50,1,W,4
+formal suit,1,50,2,W,5
+formal suit,2,20,1,W,6
+formal suit,2,20,2,W,7
+formal suit,2,25,1,W,8
+formal suit,2,25,2,W,9
+formal suit,2,30,1,W,1
+formal suit,2,30,2,W,2
+formal suit,2,35,1,W,3
+formal suit,2,35,2,W,4
+formal suit,2,40,1,W,5
+formal suit,2,40,2,W,6
+formal suit,2,45,1,W,7
+formal suit,2,45,2,W,8
+formal suit,2,50,1,W,9
+formal suit,2,50,2,W,1
+formal suit,3,20,1,W,2
+formal suit,3,20,2,W,3
+formal suit,3,25,1,W,4
+formal suit,3,25,2,W,5
+formal suit,3,30,1,W,6
+formal suit,3,30,2,W,7
+formal suit,3,35,1,W,8
+formal suit,3,35,2,W,9
+formal suit,3,40,1,W,1
+formal suit,3,40,2,W,2
+formal suit,3,45,1,W,3
+formal suit,3,45,2,W,4
+formal suit,3,50,1,W,5
+formal suit,3,50,2,W,6
+kurti-pajama,1,20,1,E,7
+kurti-pajama,1,20,2,E,8
+kurti-pajama,1,25,1,E,9
+kurti-pajama,1,25,2,E,1
+kurti-pajama,1,30,1,E,2
+kurti-pajama,1,30,2,E,3
+kurti-pajama,1,35,1,E,4
+kurti-pajama,1,35,2,E,5
+kurti-pajama,1,40,1,E,6
+kurti-pajama,1,40,2,E,7
+kurti-pajama,1,45,1,E,8
+kurti-pajama,1,45,2,E,9
+kurti-pajama,1,50,1,E,1
+kurti-pajama,1,50,2,E,2
+kurti-pajama,2,20,1,E,3
+kurti-pajama,2,20,2,E,4
+kurti-pajama,2,25,1,E,5
+kurti-pajama,2,25,2,E,6
+kurti-pajama,2,30,1,E,7
+kurti-pajama,2,30,2,E,8
+kurti-pajama,2,35,1,E,9
+kurti-pajama,2,35,2,E,1
+kurti-pajama,2,40,1,E,2
+kurti-pajama,2,40,2,E,3
+kurti-pajama,2,45,1,E,4
+kurti-pajama,2,45,2,E,5
+kurti-pajama,2,50,1,E,6
+kurti-pajama,2,50,2,E,7
+kurti-pajama,3,20,1,E,8
+kurti-pajama,3,20,2,E,9
+kurti-pajama,3,25,1,E,1
+kurti-pajama,3,25,2,E,2
+kurti-pajama,3,30,1,E,3
+kurti-pajama,3,30,2,E,4
+kurti-pajama,3,35,1,E,5
+kurti-pajama,3,35,2,E,6
+kurti-pajama,3,40,1,E,7
+kurti-pajama,3,40,2,E,8
+kurti-pajama,3,45,1,E,9
+kurti-pajama,3,45,2,E,1
+kurti-pajama,3,50,1,E,2
+kurti-pajama,3,50,2,E,3

@@ -27,10 +27,10 @@ document.getElementById("shrenik2").disabled = false;
 
 </script>
 </head>
-<body  background="https://researchweb1.iiit.ac.in/~chugh.ishani/pic1.jpg">
+<body  background="https://researchweb.iiit.ac.in/~chugh.ishani/pic1.jpg">
 
 <h2>Kindly fill the below details to get quick and best results:-</h2>
- <form action=action="{{ url_for('hello') }} method="POST">
+ <form action="/hello" method="POST">
   First name:<br>
   <input type="text" name="firstname"><br>
   Last name:<br>
@@ -47,11 +47,11 @@ gender:<br>
   <input type="radio" name="gender" value="male" onclick="male()"> Male<br>
   <input type="radio" name="gender" value="female" onclick="female()"> Female<br>
 waist<br>
- <input type="text" name="yo" id="shrenik1"><br>
+ <input type="text" name="waist" id="shrenik1"><br>
 chest<br>
- <input type="text" name="yo" id="shrenik"><br>
+ <input type="text" name="chest" id="shrenik"><br>
  hip <br>
- <input type="text" name="yo" id="shrenik2"><br>
+ <input type="text" name="hip" id="shrenik2"><br>
 
  style:<br>  
 <input type="radio" name="style" value="indian" checked> indian<br>
@@ -61,10 +61,5 @@ chest<br>
   <input type="text" name="firstname"><br><br>
   <input type="submit" value="Submit">
 </form>
-                <code><pre>
-@app.route('/')
-def form():
-    return render_template('startpage.html')
-                </pre></code>
 </body>
 </html>

@@ -30,7 +30,7 @@ document.getElementById("shrenik2").disabled = false;
 <body  background="https://researchweb1.iiit.ac.in/~chugh.ishani/pic1.jpg">
 
 <h2>Kindly fill the below details to get quick and best results:-</h2>
- <form action=action="{{ url_for('hello') }} method="POST">
+ <form action="/results/" method="post">
   First name:<br>
   <input type="text" name="firstname"><br>
   Last name:<br>
@@ -61,10 +61,5 @@ chest<br>
   <input type="text" name="firstname"><br><br>
   <input type="submit" value="Submit">
 </form>
-                <code><pre>
-@app.route('/')
-def form():
-    return render_template('startpage.html')
-                </pre></code>
 </body>
 </html>
